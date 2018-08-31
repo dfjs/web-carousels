@@ -6,7 +6,7 @@
     "start": "ng serve",
     "build": "ng build",
     "test": "ng test",
-    "test:automation": "ng test --watch=false --browsers ChromeHeadless --karma-config=src/karma.automation.conf.js",
+    "test:automation": "ng test --watch=false --karma-config=src/karma.automation.conf.js",
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
